@@ -1,0 +1,19 @@
+{
+  "name": "corporate-icon-library",
+  "version": "0.0.1",
+  "description": "Icon library for SLNSW",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slnsw/corporate-icon-library.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/slnsw/corporate-icon-library/issues"
+  },
+  "homepage": "https://github.com/slnsw/corporate-icon-library#readme"
+}
