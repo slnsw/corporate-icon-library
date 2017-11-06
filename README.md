@@ -9,6 +9,10 @@ Icon set incorporates work by the following designers/developers, among others:
 * Georgina Carberry
 * Geoffrey Roberts
 
+## Instructions
+
+Add `"corporate-icon-library": "git+ssh://git@github.com:slnsw/corporate-icon-library#v0.0.1"` to `dependencies` in `package.json`.
+
 ## TODO
 
 * Tidy up naming conventions
