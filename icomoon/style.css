@@ -1,15 +1,15 @@
 @font-face {
   font-family: 'icomoon';
-  src:  url('fonts/icomoon.eot?azqktj');
-  src:  url('fonts/icomoon.eot?azqktj#iefix') format('embedded-opentype'),
-    url('fonts/icomoon.ttf?azqktj') format('truetype'),
-    url('fonts/icomoon.woff?azqktj') format('woff'),
-    url('fonts/icomoon.svg?azqktj#icomoon') format('svg');
+  src:  url('fonts/icomoon.eot?x1slds');
+  src:  url('fonts/icomoon.eot?x1slds#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?x1slds') format('truetype'),
+    url('fonts/icomoon.woff?x1slds') format('woff'),
+    url('fonts/icomoon.svg?x1slds#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
 }
 
-.slnsw-icon, [class^="slnsw-icon-"], [class*=" slnsw-icon-"] {
+[class^="slnsw-icon-"], [class*=" slnsw-icon-"] {
   /* use !important to prevent issues with browser extensions that change fonts */
   font-family: 'icomoon' !important;
   speak: none;
@@ -34,6 +34,9 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.slnsw-icon-reset-image-icon:before {
+  content: "\e94a";
+}
 .slnsw-icon-book:before {
   content: "\e949";
 }
@@ -1264,4 +1267,3 @@
 .slnsw-icon-vimeo:before {
   content: "\e606";
 }
-

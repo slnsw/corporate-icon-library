@@ -8,10 +8,15 @@ Icon set incorporates work by the following designers/developers, among others:
 
 * Georgina Carberry
 * Geoffrey Roberts
+* Colin Watson
 
 ## Instructions
 
 Add `"corporate-icon-library": "git+ssh://git@github.com:slnsw/corporate-icon-library#v0.0.1"` to `dependencies` in `package.json`.
+
+## Version history
+
+* v0.1.0 - Added preliminary reset zoom icon.
 
 ## TODO
 
@@ -19,3 +24,4 @@ Add `"corporate-icon-library": "git+ssh://git@github.com:slnsw/corporate-icon-li
 * Standardise sizing a bit
 * Add new icons
 * Design and incorporate new icons for Banks etc.
+* Workflow for adding new icons without needing to use the webapp every time.
