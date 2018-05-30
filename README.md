@@ -16,7 +16,7 @@ Add `"corporate-icon-library": "git+ssh://git@github.com:slnsw/corporate-icon-li
 
 ## Version history
 
-* v0.1.0 - Added preliminary reset zoom icon.
+* v0.1.1 - Added preliminary reset zoom icon.
 
 ## TODO
 
