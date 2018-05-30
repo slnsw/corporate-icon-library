@@ -12,7 +12,7 @@ Icon set incorporates work by the following designers/developers, among others:
 
 ## Instructions
 
-Add `"corporate-icon-library": "git+ssh://git@github.com:slnsw/corporate-icon-library#v0.1.0"` to `dependencies` in `package.json`.
+Add `"corporate-icon-library": "git+ssh://git@github.com:slnsw/corporate-icon-library#v0.1.1"` to `dependencies` in `package.json`.
 
 ## Version history
 
