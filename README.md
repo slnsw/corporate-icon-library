@@ -24,7 +24,7 @@ Then, copy and/or reference the following files:
 
 ## Version history
 
-* v0.2.0 - Public package.
+* v0.2.1 - Public package.
 * v0.1.1 - Added preliminary reset zoom icon.
 
 ## TODO
