@@ -10,18 +10,32 @@ Icon set incorporates work by the following designers/developers, among others:
 * Geoffrey Roberts
 * Colin Watson
 
-## Instructions
+## Usage
 
-Add `"corporate-icon-library": "git+ssh://git@github.com:slnsw/corporate-icon-library#v0.1.1"` to `dependencies` in `package.json`.
+To install: `npm i --save @slnsw/corporate-icon-library`
+
+Then, copy and/or reference the following files:
+
+* `icomoon/style.css`
+* `icomoon/fonts/icomoon.eot`
+* `icomoon/fonts/icomoon.svg`
+* `icomoon/fonts/icomoon.ttf`
+* `icomoon/fonts/icomoon.woff`
 
 ## Version history
 
+* v0.2.0 - Public package.
 * v0.1.1 - Added preliminary reset zoom icon.
 
 ## TODO
 
-* Tidy up naming conventions
-* Standardise sizing a bit
-* Add new icons
+* Tidy up naming conventions.
+* Standardise sizing a bit.
+* Add new icons.
 * Design and incorporate new icons for Banks etc.
 * Workflow for adding new icons without needing to use the webapp every time.
+* Determine future icon licensing.
+
+## Copyright
+
+Copyright 2019 State Library of New South Wales. All rights reserved.
