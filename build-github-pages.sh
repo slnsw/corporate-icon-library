@@ -11,8 +11,6 @@ else
   git checkout -b gh-pages
 fi
 
-cp -r icomoon/* ./
-
 git add .
 git commit -m "Updated gh-pages"
 git push origin gh-pages

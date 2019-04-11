@@ -22,6 +22,10 @@ Then, copy and/or reference the following files:
 * `icomoon/fonts/icomoon.ttf`
 * `icomoon/fonts/icomoon.woff`
 
+## Demo
+
+[Demo page included](icomoon/demo.html).
+
 ## Version history
 
 * v0.2.1 - Public package.
