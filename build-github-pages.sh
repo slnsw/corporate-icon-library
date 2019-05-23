@@ -12,11 +12,17 @@ else
 fi
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 git pull origin gh-pages
 git merge master
 cp -r icomoon/* ./
 =======
 git merge master
+>>>>>>> master
+=======
+git pull origin gh-pages
+git merge master
+cp -r icomoon/* ./
 >>>>>>> master
 
 git add .
