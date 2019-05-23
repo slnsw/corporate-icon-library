@@ -11,19 +11,9 @@ else
   git checkout -b gh-pages
 fi
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 git pull origin gh-pages
 git merge master
 cp -r icomoon/* ./
-=======
-git merge master
->>>>>>> master
-=======
-git pull origin gh-pages
-git merge master
-cp -r icomoon/* ./
->>>>>>> master
 
 git add .
 git commit -m "Updated gh-pages"
