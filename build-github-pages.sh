@@ -11,6 +11,8 @@ else
   git checkout -b gh-pages
 fi
 
+git merge master
+
 git add .
 git commit -m "Updated gh-pages"
 git push origin gh-pages
