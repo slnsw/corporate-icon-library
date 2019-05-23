@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'icomoon';
-  src:  url('fonts/icomoon.eot?iuyc14');
-  src:  url('fonts/icomoon.eot?iuyc14#iefix') format('embedded-opentype'),
-    url('fonts/icomoon.ttf?iuyc14') format('truetype'),
-    url('fonts/icomoon.woff?iuyc14') format('woff'),
-    url('fonts/icomoon.svg?iuyc14#icomoon') format('svg');
+  src:  url('fonts/icomoon.eot?uh4ube');
+  src:  url('fonts/icomoon.eot?uh4ube#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?uh4ube') format('truetype'),
+    url('fonts/icomoon.woff?uh4ube') format('woff'),
+    url('fonts/icomoon.svg?uh4ube#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -34,74 +34,8 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.slnsw-icon-reset-image-zoom:before {
-  content: "\e94a";
-}
-.slnsw-icon-book:before {
-  content: "\e949";
-}
-.slnsw-icon-hammer2:before {
-  content: "\e9a8";
-}
-.slnsw-icon-PDFStandalone:before {
-  content: "\e948";
-}
-.slnsw-icon-SlideUp:before {
-  content: "\e684";
-}
-.slnsw-icon-SlideDown:before {
-  content: "\e685";
-}
-.slnsw-icon-PlayerOptions:before {
-  content: "\e664";
-}
-.slnsw-icon-VolumeLoud:before {
-  content: "\e665";
-}
-.slnsw-icon-VolumeOff:before {
-  content: "\e666";
-}
-.slnsw-icon-FastForward:before {
-  content: "\e65b";
-}
-.slnsw-icon-HideTranscript:before {
-  content: "\e65d";
-}
-.slnsw-icon-Rewind:before {
-  content: "\e65e";
-}
-.slnsw-icon-ShowTranscript:before {
-  content: "\e65f";
-}
-.slnsw-icon-SlowDown:before {
-  content: "\e660";
-}
-.slnsw-icon-SpeedUp:before {
-  content: "\e661";
-}
-.slnsw-icon-VolumeDown:before {
-  content: "\e662";
-}
-.slnsw-icon-VolumeUp:before {
-  content: "\e663";
-}
-.slnsw-icon-ArrowheadDown:before {
-  content: "\e654";
-}
-.slnsw-icon-ArrowheadLeft:before {
-  content: "\e655";
-}
-.slnsw-icon-ArrowheadRight:before {
-  content: "\e656";
-}
-.slnsw-icon-ArrowheadUp:before {
-  content: "\e657";
-}
-.slnsw-icon-AudioFilledLow:before {
-  content: "\e60a";
-}
-.slnsw-icon-AudioFilledNone:before {
-  content: "\e60d";
+.slnsw-icon-book-light:before {
+  content: "\e94b";
 }
 .slnsw-icon-LoginIntroCatalogue:before {
   content: "\e946";
@@ -1266,4 +1200,73 @@
 }
 .slnsw-icon-vimeo:before {
   content: "\e606";
+}
+.slnsw-icon-reset-image-zoom:before {
+  content: "\e94a";
+}
+.slnsw-icon-book:before {
+  content: "\e949";
+}
+.slnsw-icon-hammer2:before {
+  content: "\e9a8";
+}
+.slnsw-icon-PDFStandalone:before {
+  content: "\e948";
+}
+.slnsw-icon-SlideUp:before {
+  content: "\e684";
+}
+.slnsw-icon-SlideDown:before {
+  content: "\e685";
+}
+.slnsw-icon-PlayerOptions:before {
+  content: "\e664";
+}
+.slnsw-icon-VolumeLoud:before {
+  content: "\e665";
+}
+.slnsw-icon-VolumeOff:before {
+  content: "\e666";
+}
+.slnsw-icon-FastForward:before {
+  content: "\e65b";
+}
+.slnsw-icon-HideTranscript:before {
+  content: "\e65d";
+}
+.slnsw-icon-Rewind:before {
+  content: "\e65e";
+}
+.slnsw-icon-ShowTranscript:before {
+  content: "\e65f";
+}
+.slnsw-icon-SlowDown:before {
+  content: "\e660";
+}
+.slnsw-icon-SpeedUp:before {
+  content: "\e661";
+}
+.slnsw-icon-VolumeDown:before {
+  content: "\e662";
+}
+.slnsw-icon-VolumeUp:before {
+  content: "\e663";
+}
+.slnsw-icon-ArrowheadDown:before {
+  content: "\e654";
+}
+.slnsw-icon-ArrowheadLeft:before {
+  content: "\e655";
+}
+.slnsw-icon-ArrowheadRight:before {
+  content: "\e656";
+}
+.slnsw-icon-ArrowheadUp:before {
+  content: "\e657";
+}
+.slnsw-icon-AudioFilledLow:before {
+  content: "\e60a";
+}
+.slnsw-icon-AudioFilledNone:before {
+  content: "\e60d";
 }
