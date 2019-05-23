@@ -11,6 +11,8 @@ else
   git checkout -b gh-pages
 fi
 
+git pull origin gh-pages
+git merge master
 cp -r icomoon/* ./
 
 git add .
