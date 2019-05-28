@@ -30,6 +30,7 @@ Then, copy and/or reference the following files:
 
 ## Version history
 
+* v0.2.3 - File & items page icons.
 * v0.2.2 - Filled book icon.
 * v0.2.1 - Public package.
 * v0.1.1 - Added preliminary reset zoom icon.

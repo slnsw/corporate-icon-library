@@ -1,6 +1,6 @@
 {
   "name": "@slnsw/corporate-icon-library",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "Icon library for SLNSW",
   "main": "index.js",
   "scripts": {
